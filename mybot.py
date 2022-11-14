@@ -329,4 +329,4 @@ async def akick(ctx, member: discord.Member, *, reason='Відсутня'):
 
 
 
-Bot.run('MTAyNjUzMDQ1MjE4MzQ2NjA3NQ.GkRiCH.8JYP4LJZ34YgLsd8wvF1ng3tyUIkjzVmhI-U9E')
+Bot.run('TOKEN')
